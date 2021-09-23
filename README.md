@@ -7,7 +7,7 @@ This is a Writing Board very similar to any available online boards to scribble 
 ## Screenshots
 
 ![App Screenshot](https://github.com/Shubham-Karmalkar/JavaScript_Writing_board-/blob/main/Screenshot%20(749).png)
-![App Screenshot](https://github.com/Shubham-Karmalkar/JavaScript_Writing_board-/blob/main/Screenshot%20(751).png)
+![App Screenshot](https://github.com/Shubham-Karmalkar/JavaScript_Writing_board-/blob/main/Screenshot%20(750).png)
 
   
 ## Features
